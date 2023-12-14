@@ -1,7 +1,9 @@
 # WingEscapeGame
 
-The game is written in Python 3.6.4 and uses the Pygame library as well as Java FX.
+In this game you are a plane that has to escape from a prison and avoid obstacles on the way.
 
 # General information:
-- @author: Fredric Hegland
-* @version: 1.0
+- Written in Python 3.6.4
+- Uses Pygame library and Java FX
+- Uses the MVC design pattern
+- Made by: Fredric Hegland
